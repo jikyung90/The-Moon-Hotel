@@ -9,18 +9,19 @@
   		height: 900px;
   		width: 1920px;
   	}
-  	.CarouselLocation{
-  		position: absolute;
-  		left: 0;
-  		top: 0;
-  		z-index: -1;
-  	}
   	.navColor{
   	 color:white;
   	 font-weight: bolder;
   	 font-size: 1em;
   	}
   	
+  	.navWhite{
+  		width:100%;
+  		position: absolute;
+  		left: 0;
+  		top: 0px;
+  		z-index: 1;
+  	}
   	#navBlack{
   		width:100%;
   		position: fixed;

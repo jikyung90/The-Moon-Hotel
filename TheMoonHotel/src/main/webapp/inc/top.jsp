@@ -34,7 +34,7 @@
 <body>
 <header>
 </header>
-<nav class="navbar navbar-expand-md " style="background: rgba(0, 0, 0, 0.1) ; height:70px;">
+<nav class="navbar navbar-expand-md navWhite" style="background: rgba(0, 0, 0, 0.1) ; height:70px;">
 	
   <div class="container-fluid" >
         <a class="navbar-brand navColor" href="#" >THE MOON HOTEL</a>
