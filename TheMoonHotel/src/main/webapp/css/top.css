@@ -9,6 +9,9 @@
   		height: 900px;
   		width: 1920px;
   	}
+  	.CarouselLocation{
+  		z-index: -1;
+  	}
   	.navColor{
   	 color:white;
   	 font-weight: bolder;
@@ -20,14 +23,14 @@
   		position: absolute;
   		left: 0;
   		top: 0px;
-  		z-index: 1;
+  		z-index: 2;
   	}
   	#navBlack{
   		width:100%;
   		position: fixed;
   		left: 0;
   		top: 0px;
-  		z-index: 1;
+  		z-index: 2;
   		visibility: hidden;
   	}
   	@keyframes slide{

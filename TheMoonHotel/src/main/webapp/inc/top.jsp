@@ -38,13 +38,13 @@
 	
   <div class="container-fluid" >
         <a class="navbar-brand navColor" href="#" >THE MOON HOTEL</a>
-    
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse " id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-       <li class="nav-item dropdown">
+      
+        <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle navColor" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             소개
           </a>
@@ -105,13 +105,13 @@
     </button>
     <div class="collapse navbar-collapse " id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item dropdown">
+         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle navColor" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             소개
           </a>
-          <ul class="dropdown-menu  dropdown-menu-dark">
-            <li><a class="dropdown-item  dropdown-menu-dark" href="#">인사말</a></li>
-            <li><a class="dropdown-item  dropdown-menu-dark" href="#">지점별 정보</a></li>
+          <ul class="dropdown-menu dropdown-menu-dark">
+            <li><a class="dropdown-item" href="#">인사말</a></li>
+            <li><a class="dropdown-item" href="#">지점별 정보</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
@@ -155,3 +155,4 @@
     </div>
   </div>
 </nav>
+
